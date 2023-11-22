@@ -1,0 +1,55 @@
+<resources>
+    <string name="movie_fav">Favorita</string>
+    <!-- Previos -->
+    <string name="app_name">MoviesAPI y DB</string>
+    <string name="tituloActivityEntrada">Mis pelis favoritas </string>
+    <string name="titulo">Título </string>
+    <string name="contenido">Argumento</string>
+    <string name="categoria">Categoría</string>
+    <string name="hint_titulo_nota">Título de la película</string>
+    <string name="hint_contenido_nota">Sinapsis de la pelicula</string>
+    <string name="desc_cont_modificar">Modificar</string>
+    <string name="txt_guardar">Guardar</string>
+    <string name="msg_guardado">Elemento guardado</string>
+    <string name="msg_crear_nueva_categoria">Se va a crear una nueva categoría</string>
+    <string name="msg_accion_cancelada">Acción cancelada</string>
+    <string name="msg_accion_ok">Acción realizada</string>
+    <string name="msg_modif_categoria">Se va a modificar la categoría seleccionada</string>
+    <string name="hint_duracion">Duracion</string>
+    <string name="hint_fecha">Fecha de la película</string>
+    <string name="textoprueba">Esdto es una preuba</string>
+    <string name="DescripcionCategoria">Descripción Categoría</string>
+    <string name="NombreCategoría">Nombre de la Categoría</string>
+    <string name="TituloCreacionCategoria">Creación de la nueva categoría</string>
+    <string name="creacion_categoria">Creación de nueva categoría</string>
+    <string name="modificacion_categoria">Modificación Categoría existente\n</string>
+    <string name="Compartir">Compartir Peli</string>
+    <string name="comprueba_conexion">No se ha establecido la conexión. Comprueba tu conexión</string>
+    <string name="subject_compartir">Te comparto la siguiente película</string>
+    <string name="cenna">-titulo</string>
+    <string name="titulopeli">Tenet</string>
+    <string name="fechaestreno">26/08/2020</string>
+    <string name="title_activity_show_movie">ShowMovie</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="desc_imagen_fondo">Imagen de fondo pelicula</string>
+    <string name="desc_caratula">Carátula de la película</string>
+    <string name="menu_item_compartir">Compartir</string>
+
+
+    <string name="tenet_argumento">Una acción épica que gira en torno al espionaje internacional, los viajes en el tiempo y la evolución, en la que un agente secreto debe prevenir la Tercera Guerra Mundial.</string>
+    <string name="tenet_duracion">2h 30m</string>
+    <string name="tenet_estreno">26/08/2020</string>
+    <string name="tenet_categoria">Acción</string>
+
+    <string name="estreno">Fecha de estreno</string>
+    <string name="duracion">Duración</string>
+
+    <string name="title_info">INFORMACION</string>
+    <string name="title_actores">REPARTO</string>
+    <string name="title_argumento">ARGUMENTO</string>
+    <string name="categoria_titulo">Elige la categoria</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
